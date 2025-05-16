@@ -1,0 +1,8 @@
+7z2408-x64      =7zip  for unzip the files
+
+pycharm-professional-2024.3      =run thr codes
+
+python-3.13.1-amd64              =main software
+
+
+maybe 7 zip is not working you can use [WINRAR]
